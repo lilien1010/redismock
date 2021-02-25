@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/alicebob/miniredis/v2"
-	"github.com/elliotchance/redismock/v8"
 	"github.com/go-redis/redis/v8"
+	"github.com/lilien1010/redismock/v8"
 	"github.com/stretchr/testify/assert"
 )
 

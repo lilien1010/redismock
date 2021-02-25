@@ -1,9 +1,10 @@
-module github.com/elliotchance/redismock/v8
+module github.com/lilien1010/redismock/v8
 
 go 1.13
 
 require (
 	github.com/alicebob/miniredis/v2 v2.14.1
+	github.com/elliotchance/redismock/v8 v8.6.0
 	github.com/go-redis/redis/v8 v8.6.0
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/stretchr/testify v1.7.0
